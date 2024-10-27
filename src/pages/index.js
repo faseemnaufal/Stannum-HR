@@ -127,7 +127,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        Congratulations
+        Congratulationsss
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! 🎉🎉🎉</span>
       </h1>
@@ -173,4 +173,4 @@ const IndexPage = () => {
 
 export default IndexPage
 
-export const Head = () => <title>Home Page</title>
+export const Head = () => <title>Home Page Gatsby</title>
